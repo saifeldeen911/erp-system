@@ -15,16 +15,6 @@ The **Enterprise Resource Planning (ERP) System** is a modular solution designed
 - **Form Validation**: Uses Formik and Yup for handling and validating forms, ensuring data consistency.
 - **Data Visualization**: Displays financial trends and business metrics using Chart.js.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Technologies Used](#technologies-used)
-- [Folder Structure](#folder-structure)
-- [Features](#features)
-- [Usage](#usage)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
-
 ## Installation
 
 ### Prerequisites
